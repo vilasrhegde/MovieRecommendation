@@ -10,6 +10,9 @@ movies_dict = pickle.load(open('movies.pkl','rb'))
 movies = pd.DataFrame(movies_dict)
 
 mov_data = pd.read_csv('movies.csv')
+
+
+
 selected_feature = ['genres','keywords','tagline','cast','director']
 for feature  in selected_feature:
   mov_data[feature]=mov_data[feature].fillna('')
@@ -46,3 +49,4 @@ if st.button('Recommend'):
     for i in recommendations:
         st.write(j,i)
         j+=1 
+
