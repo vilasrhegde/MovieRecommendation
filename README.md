@@ -36,11 +36,17 @@ mov_data[feature]=mov_data[feature].fillna('')
 3. Load the model by using ```pickle.load(open('similarity.pkl','rb'))``` function
 4. Do all the remaining operations to get the suggestions
 
-## Choose a movie from dropdown
-![image](https://user-images.githubusercontent.com/85540091/171777345-4b9c0d6f-91d1-4836-a345-f7dc683fe164.png)
+## Choose a movie from dropdown, and boom!
+![image](https://user-images.githubusercontent.com/85540091/224486892-29d95706-ab3c-470d-b962-9f2e2013e40f.png)
 
-## Get the result!
-![image](https://user-images.githubusercontent.com/85540091/171777225-6d612492-71cc-4016-b986-d2dadce30b52.png)
+## Dig more with Directors!
+![image](https://user-images.githubusercontent.com/85540091/224486976-972df4e6-ba37-4048-87a9-6bb63d45bbfb.png)
+
+## Genre Specific visualization
+![image](https://user-images.githubusercontent.com/85540091/224487245-3ce99c8e-563c-4576-bd9b-cfdff0dc403e.png)
+
+## Popular movies
+![image](https://user-images.githubusercontent.com/85540091/224487305-0d14db7d-cd6f-4eea-abf1-0c09a0c7dd74.png)
 
 
 ## Tools needed
