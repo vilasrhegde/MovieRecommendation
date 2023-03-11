@@ -1,7 +1,7 @@
 # Movie Recommendation System - Python
 > A website made using difflib library and Streamlit
 
-## Check this website [here](https://movierecmdvilashegde.streamlit.app/)
+## Check [this](https://movierecmdvilashegde.streamlit.app/) website now!
 
 # How am I giving suggestions?
 
